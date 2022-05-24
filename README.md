@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is Sourav. 
 
-- 🔭 I’m currently working on React js, Next js, Laravel, Tailwind CSS, Bootstrap, Wordpress theme development.
+- 🔭 I’m currently working on React js, Next js, Laravel, Tailwind CSS, Bootstrap & Wordpress theme development.
 - 🌱 I’m currently learning Node js, Docker, Ubuntu server administration.
 
 Contact : souravkairy.se@gmail.com
