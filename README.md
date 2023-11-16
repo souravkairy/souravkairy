@@ -1,10 +1,10 @@
 ### Hi there 👋
 This is Sourav. 
 
-- 🔭 I’m currently working on Javascript, Typescript, React js, Next js, Laravel, Tailwind CSS, Bootstrap & Wordpress theme development.
+- 🔭 I’m currently working on Javascript, Typescript, PHP, React JS, Next JS, Laravel, Tailwind CSS, Bootstrap & WordPress themes and plugin development.
 - 🌱 I’m currently learning Node js, Docker & Ubuntu server administration.
 
-Contact : souravkairy.se@gmail.com
+Contact: souravkairy.se@gmail.com
 
 <!--
 **souravkairy/souravkairy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
